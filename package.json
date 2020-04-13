@@ -1,0 +1,27 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "Emumud shell.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emumud/shell.git"
+  },
+  "keywords": [
+    "emumud",
+    "hackmud"
+  ],
+  "author": "Duck Industries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emumud/shell/issues"
+  },
+  "homepage": "https://github.com/emumud/shell#readme",
+  "dependencies": {
+    "logging": "github:emumud/logging",
+    "runner": "github:emumud/runner"
+  }
+}
